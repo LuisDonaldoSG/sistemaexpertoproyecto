@@ -32,140 +32,200 @@ $cuestionario = array(
     '5' => array(
         '¿Te interesa en análisis de la información para crear inferencias que ayuden a mejorar un determinado proceso?',
         array(
-            'Análisis de datos'
+            'Métodos numéricos por computadora',
+            'Diseño de compiladores',
+            'Inteligencia artificial y sistemas expertos',
+	        'Sistemas de información integrales'
         )
     )
     ,
     '6' => array(
         '¿Quieres conocer de lo que es capaz un sistema que pueda ayudar a predecir eventos?',
         array(
-            'Análisis de datos'
+            'Métodos numéricos por computadora',
+            'Diseño de compiladores',
+            'Inteligencia artificial y sistemas expertos',
+	        'Sistemas de información integrales'
         )
     )
     ,
     '7' => array(
         '¿Piensas que es útil la creación de sistemas que puedan ser semi autónomos?',
         array(
-            'Análisis de datos'
+            'Métodos numéricos por computadora',
+            'Diseño de compiladores',
+            'Inteligencia artificial y sistemas expertos',
+	        'Sistemas de información integrales'
         )
     )
     ,
     '8' => array(
         '¿Piensas que las inteligencias artificiales pueden ser de ayuda en la industria en los próximos 5 años?',
         array(
-            'Análisis de datos'
+            'Métodos numéricos por computadora',
+            'Diseño de compiladores',
+            'Inteligencia artificial y sistemas expertos',
+	        'Sistemas de información integrales'
         )
     )
     ,
     '9' => array(
         '¿Tienes interés en la minería de datos y lo que puede hacer?',
         array(
-            'Análisis de datos'
+            'Métodos numéricos por computadora',
+            'Diseño de compiladores',
+            'Inteligencia artificial y sistemas expertos',
+	        'Sistemas de información integrales'
         )
     )
     ,
     '10' => array(
         '¿Te interesa aplicar el conocimiento de cálculo en la creación de sistemas de predicción basados en esa área?',
         array(
-            'Análisis de datos '
+            'Métodos numéricos por computadora',
+            'Diseño de compiladores',
+            'Inteligencia artificial y sistemas expertos',
+	        'Sistemas de información integrales'
         )
     )
     ,
     '11' => array(
         '¿Ves en tu futuro ser un diseñador de software o programador?',
         array(
-            'Administración de proyectos informáticos'
+            'Ingeniería de software I',
+            'Ingeniería de software II',
+            'Administración',
+	        'Gestión de proyectos informáticos'
         )
     )
     ,
     '12' => array(
         '¿Te interesa el área de programación?',
         array(
-            'Administración de proyectos informáticos'
+            'Ingeniería de software I',
+            'Ingeniería de software II',
+            'Administración',
+	        'Gestión de proyectos informáticos'
         )
     )
     ,
     '13' => array(
         '¿Quieres ser un programador dedicado al back end?',
         array(
-            'Administración de proyectos informáticos'
+            'Ingeniería de software I',
+            'Ingeniería de software II',
+            'Administración',
+	        'Gestión de proyectos informáticos'
         )
     )
     ,
     '14' => array(
         '¿Quieres ser un programador dedicado al front end?',
         array(
-            'Administración de proyectos informáticos'
+            'Ingeniería de software I',
+            'Ingeniería de software II',
+            'Administración',
+	        'Gestión de proyectos informáticos'
         )
     )
     ,
     '15' => array(
         '¿Consideras que la gestión de un proyecto informático es importante para su realización?',
         array(
-            'Administración de proyectos informáticos'
+            'Ingeniería de software I',
+            'Ingeniería de software II',
+            'Administración',
+	        'Gestión de proyectos informáticos'
         )
     )
     ,
     '16' => array(
         '¿Te interesa conocer las etapas que deben seguirse para realizar un sistema informático?',
         array(
-            'Administración de proyectos informáticos'
+            'Ingeniería de software I',
+            'Ingeniería de software II',
+            'Administración',
+	        'Gestión de proyectos informáticos'
         )
     )
     ,
     '17' => array(
         '¿Planeas o has planeado crear un sistema informático?',
         array(
-            'Administración de proyectos informáticos'
+            'Ingeniería de software I',
+            'Ingeniería de software II',
+            'Administración',
+	        'Gestión de proyectos informáticos'
         )
     )
     ,
     '18' => array(
         '¿Piensas que la seguridad en un servidor es alta mente necesaria?',
         array(
-            'Ciberseguridad y administración de redes'
+            'Redes III',
+            'Redes IV',
+            'Seguridad y auditoría de sistemas',
+	        'Administración de las tecnologías de información'
         )
     )
     ,
     '19' => array(
         '¿Quieres conocer como se administra un servidor?',
         array(
-            'Ciberseguridad y administración de redes'
+            'Redes III',
+            'Redes IV',
+            'Seguridad y auditoría de sistemas',
+	        'Administración de las tecnologías de información'
         )
     )
     ,
     '20' => array(
         '¿Quieres conocer cómo funciona un servidor?',
         array(
-            'Ciberseguridad y administración de redes'
+            'Redes III',
+            'Redes IV',
+            'Seguridad y auditoría de sistemas',
+	        'Administración de las tecnologías de información'
         )
     )
     ,
     '21' => array(
         '¿Ves la creación de infraestructura de red como un tema interesante?',
         array(
-            'Ciberseguridad y administración de redes'
+            'Redes III',
+            'Redes IV',
+            'Seguridad y auditoría de sistemas',
+	        'Administración de las tecnologías de información'
         )
     )
     ,
     '22' => array(
         '¿Te ves a ti mismo como un futuro trabajador de campo en el área de las telecomunicaciones?',
         array(
-            'Ciberseguridad y administración de redes'
+            'Redes III',
+            'Redes IV',
+            'Seguridad y auditoría de sistemas',
+	        'Administración de las tecnologías de información'
         )
     )
     ,
     '23' => array(
         '¿Quieres crear y diseñar redes por las cuales se establezca comunicación entre diferentes personas?',
         array(
-            'Ciberseguridad y administración de redes'
+            'Redes III',
+            'Redes IV',
+            'Seguridad y auditoría de sistemas',
+	        'Administración de las tecnologías de información'
         )
     )
     ,
     '24' => array(
         '¿Te parece interesante el proceso de comunicación establecido en el modelo OSI?',
         array(
-            'Ciberseguridad y administración de redes'
+            'Redes III',
+            'Redes IV',
+            'Seguridad y auditoría de sistemas',
+	        'Administración de las tecnologías de información'
         )
     )
     ,
